@@ -32,7 +32,7 @@ setuptools
 six                    
 tensorboard   
 tensorflow-estimator==1.13.0     
-tensorflow-gpu==1.13.1     
+tensorflow-gpu==1.15.2     
 termcolor                  
 toolz                    
 torch==1.0.1.post2
